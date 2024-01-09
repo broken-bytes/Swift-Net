@@ -1,2 +1,2 @@
 # Swift-Net
-A thin networking wrapper over native unix/windows sockets. 
+A thin, cross-platform networking layer for swift
